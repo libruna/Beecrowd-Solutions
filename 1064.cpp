@@ -22,5 +22,6 @@ int main() {
 	cout << fixed << setprecision(1) << media << endl;
 		
 	return 0;
+	
 }
 
