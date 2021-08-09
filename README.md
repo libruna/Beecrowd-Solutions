@@ -1,6 +1,6 @@
 ## URI Online Judge Answers
 
-Esse repositório contém algumas das minhas soluções em C++ das questões do juiz online URI Judge
+Esse repositório contém algumas das minhas soluções em C++ das questões do URI Judge Online
 
 ## Sobre o URI
 O URI é uma plataforma online criada com o objetivo de proporcionar aos seus usuários o aprendizado, a prática e o aperfeiçoamento de suas habilidades em algoritmos através da resolução de problemas de programação diversos. O site
