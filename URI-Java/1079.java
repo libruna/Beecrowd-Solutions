@@ -21,5 +21,6 @@ public class Main {
             media = soma / 10.0;
             System.out.printf("%.1f%n", media);
         }
+     
     }
 }
