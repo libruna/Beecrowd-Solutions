@@ -20,5 +20,4 @@ public class Main {
         System.out.println(maior);
         System.out.println(posicao);
     }
- 
 }
