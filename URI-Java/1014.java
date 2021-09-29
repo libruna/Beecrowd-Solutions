@@ -1,7 +1,6 @@
 import java.io.IOException;
 import java.util.Locale;
 import java.util.Scanner;
- 
 
 public class Main {
  
@@ -20,5 +19,4 @@ public class Main {
         entrada.close();
  
     }
- 
 }

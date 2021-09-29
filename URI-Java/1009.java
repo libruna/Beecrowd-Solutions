@@ -19,5 +19,4 @@ public class Main {
         System.out.printf("TOTAL = R$ %.2f%n", total);
         entrada.close();
     }
- 
 }
