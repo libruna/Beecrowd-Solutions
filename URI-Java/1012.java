@@ -28,5 +28,4 @@ public class Main {
         System.out.printf("RETANGULO: %.3f%n", retangulo);
  
     }
- 
 }
