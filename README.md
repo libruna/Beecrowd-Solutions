@@ -1,6 +1,6 @@
 ## Beecrowd Answers
 
-Esse repositório contém algumas das minhas soluções das questões do URI Judge Online.
+Esse repositório contém algumas das minhas soluções das questões do Beecrowd (Antigo URI Judge Online).
 
 ## Sobre o Beecrowd
 O Beecrowd é uma plataforma online criada com o objetivo de proporcionar aos seus usuários o aprendizado, a prática e o aperfeiçoamento de suas habilidades em algoritmos através da resolução de problemas de programação diversos. 
