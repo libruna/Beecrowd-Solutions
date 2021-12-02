@@ -1,4 +1,4 @@
-## URI Online Judge Answers
+## Beecrowd Answers
 
 Esse repositório contém algumas das minhas soluções das questões do URI Judge Online.
 
