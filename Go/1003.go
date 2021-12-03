@@ -5,11 +5,11 @@ import (
 )
  
 func main() {
-    	var a, b int
-
+    var a, b int
+	
 	fmt.Scanf("%d", &a)
 	fmt.Scanf("%d", &b)
-
-	prod := a * b
-	fmt.Printf("PROD = %d\n", prod)
+	
+	soma := a + b
+	fmt.Printf("SOMA = %d\n", soma)
 }

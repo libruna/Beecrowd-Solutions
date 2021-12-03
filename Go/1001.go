@@ -6,11 +6,11 @@ import (
  
 func main() {
 
-    var a, b, x int
+    var a, b int
 
 	fmt.Scanf("%d", &a)
 	fmt.Scanf("%d", &b)
 
-	x = a + b
+	x := a + b
 	fmt.Printf("X = %d\n", x)
 }

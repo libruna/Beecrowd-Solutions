@@ -6,12 +6,12 @@ import (
 )
 
 func main() {
-	var n, r, area float64
+	var r float64
 
 	fmt.Scanf("%f", &r)
 
-	n = 3.14159
-	area = n * math.Pow(r, 2)
+	n := 3.14159
+	area := n * math.Pow(r, 2)
 
 	fmt.Printf("A=%.4f\n", area)
 }
