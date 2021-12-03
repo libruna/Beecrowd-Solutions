@@ -13,4 +13,6 @@ Os problemas disponíveis na plataforma podem ser resolvidos com a utilização 
 
 #### Perfil dos contribuidores na plataforma:
 
-Bruna: [www.urionlinejudge.com.br/judge/pt/profile/474545].
+[Bruna](https://www.beecrowd.com.br/judge/pt/profile/474545)
+
+[Luís](https://www.beecrowd.com.br/judge/pt/profile/473476)
