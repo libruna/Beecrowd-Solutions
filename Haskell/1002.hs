@@ -1,9 +1,10 @@
--- https://www.beecrowd.com.br/judge/pt/problems/view/1002
+-- https://www.beecrowd.com.br/judge/pt/problems/view/1001
 -- Comment
 {- Multiline comments can be enclosed
 in a block like this.
 -}
 
+import Text.Printf(printf)
 
 main = do
     a <- getLine --Read answer from terminal
@@ -12,4 +13,4 @@ main = do
 
     -- "read variableName :: Double" convert string to float with double precision
 
-    putStrLn $ show ( ( (read a :: Double) ^ 2 ) * 3.14159 )
+    printf "%.4f\n" ((read a :: Double) ^ 2 * 3.14159 )
