@@ -13,6 +13,6 @@ main = do
 
     putStr "MEDIA = " -- Print text without break line
 
-    -- "read variableName :: Double" convert string to an integer
+    -- "read variableName :: Double" convert string to an double precision float
 
     printf "%.1f\n" ( ( (read a :: Double )*2 + (read b ::  Double )*3 + (read c ::  Double )*5 ) / 10 )
