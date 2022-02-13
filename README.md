@@ -16,3 +16,5 @@ Os problemas disponíveis na plataforma podem ser resolvidos com a utilização 
 [Bruna](https://www.beecrowd.com.br/judge/pt/profile/474545)
 
 [Luís](https://www.beecrowd.com.br/judge/pt/profile/473476)
+
+[Carlos](https://www.beecrowd.com.br/judge/pt/profile/275714)
