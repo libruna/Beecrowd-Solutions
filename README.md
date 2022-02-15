@@ -11,6 +11,17 @@ Os problemas disponíveis na plataforma podem ser resolvidos com a utilização 
 
 [Site do Beecrowd](www.beecrowd.com.br)
 
+## Este repositório contém soluções nas seguintes linguagens:
+- C++
+- C
+- Java
+- Haskell
+- JavaScript
+- Go
+- SQL
+- Ruby
+- Python 3
+
 #### Perfil dos contribuidores na plataforma:
 
 [Bruna](https://www.beecrowd.com.br/judge/pt/profile/474545)
